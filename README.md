@@ -1,4 +1,4 @@
-# DataScience
+# End-to-End Multimodal Emotion Recognition Using Deep Neural Networks
 ## 工作规范
 1. fork 本项目， git clone 自己的项目到本地，以 项目名称-姓名 方式新建工作路径，同时再新建 source，paper 子目录；  
 2. 在工作路径中放置以下文件（暂定）：  
